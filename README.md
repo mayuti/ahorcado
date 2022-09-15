@@ -1,2 +1,2 @@
 # ahorcado
-Juego del Ahorcado en Python
+Juego del Ahorcado escrito en lenguaje Python para presentar finalización de curso Python.
