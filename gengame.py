@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Sep 13 15:53:17 2022
+@author: Cristian Andres M. Mayuti
+@license GPLV3.
 
-@author: admin
 """
 import pickle
 import random
