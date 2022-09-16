@@ -1,10 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
-
-Juego del Ahorcaado realizado por Cristian Andres M. Mayuti
-Licencia GPLV3.
-
+@author: Cristian Andres M. Mayuti
+@license GPLV3.
 
 """
 from gengame import Game
